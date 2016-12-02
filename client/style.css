@@ -7,7 +7,7 @@ body {
 main {
   flex: 1 0 auto;
   background-image: url("crunch-crunch-food.jpg");
-
+  margin-bottom: 0px;
 }
 
 #get-food {
@@ -15,5 +15,14 @@ main {
 }
 
 .foods  {
+  height: 20vh;
   margin-top: 10vh;
+  background-color: black;
+  opacity: 0.9;
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 4em;
 }
