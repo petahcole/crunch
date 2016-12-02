@@ -6,4 +6,14 @@ body {
 
 main {
   flex: 1 0 auto;
+  background-image: url("crunch-crunch-food.jpg");
+
+}
+
+#get-food {
+  margin-top: 10vh;
+}
+
+.foods  {
+  margin-top: 10vh;
 }
