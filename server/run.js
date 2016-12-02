@@ -10,6 +10,6 @@ app.listen(3000, function() {
   console.log("listening on port 3000");
 });
 
-app.get('/foods', function(req, res, next) {
+app.get('/foods', cors(), function(req, res, next) {
   res.json(foods);
 });
