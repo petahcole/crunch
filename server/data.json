@@ -1,0 +1,25 @@
+{
+  "foods": [
+   {"food" : "beets"},
+   {"food" : "avacado"},
+   {"food" : "hot dog"},
+   {"food" : "cheese"},
+   {"food" : "crab cakes"},
+   {"food" : "tamale"},
+   {"food" : "clam chowder"},
+   {"food" : "croissant"},
+   {"food" : "apple pie"},
+   {"food" : "garlic"},
+   {"food" : "bacon"},
+   {"food" : "cod"},
+   {"food" : "snow cone"},
+   {"food" : "ramen"},
+   {"food" : "chicken stock"},
+   {"food" : "twizzlers"},
+   {"food" : "cavier"},
+   {"food" : "paté"},
+   {"food" : "Cap n Crunch"},
+   {"food" : "rice"},
+   {"food" : "Crunch Bar"}
+  ]
+}
